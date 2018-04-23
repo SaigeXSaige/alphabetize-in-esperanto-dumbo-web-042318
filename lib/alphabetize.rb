@@ -9,7 +9,7 @@ def alphabetize(arr)
       positions << ESPERANTO_ALPHABET.index(char)
     end
     positions
-    binding.pry
+    #binding.pry
   end
   arr
 end
